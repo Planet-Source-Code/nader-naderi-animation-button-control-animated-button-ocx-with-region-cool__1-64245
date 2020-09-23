@@ -1,0 +1,9 @@
+[PictureInfo]
+Row=10
+Col=6
+
+[Twist]
+StartFrame=10
+EndFrame=60
+AnimationSpeed=10
+AnimationVoice=MCITEST.wav
